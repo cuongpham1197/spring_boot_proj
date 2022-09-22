@@ -36,5 +36,16 @@ public class VanBan {
 
     @Column(nullable = false)
     private String nguoiKy;
-
 }
+/*
+{
+    "soHieu":"37-QĐ/TW",
+    "trichYeu":"Về những điều đảng viên không được làm",
+    "loaiVanBan":"Quy định",
+    "linhVuc":"Công tác xây dựng, chỉnh đốn đảng",
+    "ngayBanHanh":"2021-10-25",
+    "ngayHieuLuc":"2021-10-25",
+    "coQuanBanHanh":"Ban Chấp Hành Trung Ương",
+    "nguoiKy":"Nguyễn Phú Trọng"
+}
+ */
